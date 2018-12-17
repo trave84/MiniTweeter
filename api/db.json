@@ -1,29 +1,9 @@
 {
   "posts": [
     {
-      "title": "post 5",
-      "body": "post 5 body\n",
-      "id": 6
-    },
-    {
-      "title": "post 5",
-      "body": "post 5 body\n",
-      "id": 7
-    },
-    {
-      "title": "post 7 ",
-      "body": "post body",
-      "id": 8
-    },
-    {
-      "title": "post 8",
+      "title": "post10",
       "body": "body",
-      "id": 9
-    },
-    {
-      "title": "post 9",
-      "body": "body",
-      "id": 10
+      "id": 11
     }
   ]
 }
