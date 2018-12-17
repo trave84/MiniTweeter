@@ -1,0 +1,12 @@
+body {
+  background-color: beige;
+}
+
+.card,
+.form-control,
+button {
+  border-radius: 1%;
+}
+.delete {
+  color: red;
+}
