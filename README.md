@@ -1,10 +1,12 @@
 # Small modular JS app to include into bigger websites
 
-# To build and load JS ES6 modules used in this project
+To be functional in the browser follow the notes below:
 
 # Install node.js first
 
+```sh
 https://nodejs.org/en/download/
+```
 
 # Then install dependencies
 
